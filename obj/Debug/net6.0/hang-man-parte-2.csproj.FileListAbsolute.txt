@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\bin\Debug\net6.0\hang-man-parte-2.exe
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\bin\Debug\net6.0\hang-man-parte-2.deps.json
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\bin\Debug\net6.0\hang-man-parte-2.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\bin\Debug\net6.0\hang-man-parte-2.dll
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\bin\Debug\net6.0\hang-man-parte-2.pdb
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.dll
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\refint\hang-man-parte-2.dll
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.pdb
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\hang-man-parte-2.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\proyectos\proyecto-JUEGO-AHORCADO-PARTE-2\hang-man-parte-2\obj\Debug\net6.0\ref\hang-man-parte-2.dll
